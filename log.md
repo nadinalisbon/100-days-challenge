@@ -18,7 +18,7 @@
  * plnkr:  [JavaScript Bootcamp importing script Example](https://next.plnkr.co/plunk/hnNSRf1qFMnUzV34)
   
 
-### Day 1: January 02, 2019
+### Day 2: January 02, 2019
 
 **Today's Journey**: 
 
