@@ -1,4 +1,6 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code & Fitness - Log
+
+## 100 Days Of Code
 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
@@ -18,7 +20,9 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
+---
 
+## 100 Days Of Fitness
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
