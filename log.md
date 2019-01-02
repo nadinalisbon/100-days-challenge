@@ -26,13 +26,17 @@
 
 **Links:**
 
-  
-  
-
 ---
 
 ## 100 Days Of Fitness
 ### Day 1: January 01, 2019
+
+**Today's Journey**: 30 minutes of Cardio.
+
+**Perspective:** Just Dance 2019 is amazing, great cardio session.
+
+
+### Day 2: January 02, 2019
 
 **Today's Journey**: 
 
