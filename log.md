@@ -33,6 +33,25 @@
 
 ### Day 3: January 03, 2019
 
+**Today's Journey**: Completed the following sections in my JavaScript Training Course:
+  * Variables – Objects
+  * Strict Mode
+  * Dynamic Typing
+  * Hoisting
+  
+Completed the Lightning App Builder Badge
+
+![Lightning App Builder](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20App%20Builder.PNG "Lightning App Builder")
+
+**Perspective:** A lot of the material I am quite familiar with but doing this refesh has definately reinforce the basics. Also I am working toward unlocking and completing the App Customization Specialist Super Badge to apply to be a #LightningChampion so focus has shifted slightly. 
+
+**Links:**
+ * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+ * Trailhead: [Lightning App Builder](https://trailhead.salesforce.com/en/content/learn/modules/lightning_app_builder)
+
+ 
+### Day 4: January 04, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
@@ -54,13 +73,18 @@
 
 **Today's Journey**: 30 minutes of working on my core. Did situps and pushups.
 
-**Perspective:** Would have prefered to go walking by the rain in the area prevented. Will have to add more core exercises, my core is non existent.
+**Perspective:** Would have prefered to go walking but the rain prevented it. Will have to add more core exercises, my core is non existent.
 
 
 ### Day 3: January 03, 2019
 
+**Today's Journey**: 30 minutes of arm exercises today,lifted weights also took a walk at lunch.
+
+**Perspective:** Still soar from yesterdays situps.
+
+
+### Day 4: January 04, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
-
-**Links:**
