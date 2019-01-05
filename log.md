@@ -52,11 +52,23 @@ Completed the Lightning App Builder Badge
  
 ### Day 4: January 04, 2019
 
+**Today's Journey**: Worked through javascript functions in my JavaScript Course. Also started the Build a Battle Station App Project.
+
+**Perspective:** Today was a light but productive day.
+
+**Links:**
+ * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+ * Trailhead: [Build a Battle Station App Project](https://trailhead.salesforce.com/content/learn/projects/workshop-battle-station)
+
+
+### Day 5: January 05, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
 
 **Links:**
+
 
 ---
 
@@ -85,6 +97,13 @@ Completed the Lightning App Builder Badge
 
 ### Day 4: January 04, 2019
 
+**Today's Journey**: 30 minutes of cardio, also took a walk at lunch.
+
+**Perspective:** light, but productive.
+
+### Day 5: January 05, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
+
