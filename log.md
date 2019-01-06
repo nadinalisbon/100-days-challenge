@@ -43,7 +43,7 @@ Completed the Lightning App Builder Badge
 
 ![Lightning App Builder](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20App%20Builder.PNG "Lightning App Builder")
 
-**Perspective:** A lot of the material I am quite familiar with but doing this refesh has definately reinforce the basics. Also I am working toward unlocking and completing the App Customization Specialist Super Badge to apply to be a #LightningChampion so focus has shifted slightly. 
+**Perspective:** A lot of the material I am quite familiar with but doing this refesh has definately reinforce the basics. Also I am working toward unlocking and completing the App Customization Specialist Superbadge to apply to be a #LightningChampion so focus has shifted slightly. 
 
 **Links:**
  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
@@ -63,7 +63,26 @@ Completed the Lightning App Builder Badge
 
 ### Day 5: January 05, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Build a Battle Station App Project. 
+
+![Build a Battle Station App Project](https://github.com/nadinalisbon/100-days-challenge/blob/master/battlestation%20app.PNG "Build a Battle Station App Project")
+
+Started working on the App Customization Specialist Superbadge. Two Sections Left!.
+
+![App Customization Specialist Superbadge](https://github.com/nadinalisbon/100-days-challenge/blob/master/App%20Customization%20progress.PNG "App Customization Specialist Superbadge")
+
+**Perspective:** Got stuck quite a few times but got to a good stopping point.
+
+**Links:**
+
+* Trailhead: [Build a Battle Station App Project](https://trailhead.salesforce.com/content/learn/projects/workshop-battle-station)
+
+* Trailhead: [App Customization Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lightning_platform_app_builder)
+
+
+### Day 6: January 06, 2019
+
+**Today's Journey**:
 
 **Perspective:** 
 
@@ -102,6 +121,11 @@ Completed the Lightning App Builder Badge
 **Perspective:** light, but productive.
 
 ### Day 5: January 05, 2019
+
+**Today's Journey**: 30 minutes of working on my core and some light meditation.
+
+**Perspective:** WIth all the coding today, these exercises were a nice break.
+### Day 6: January 06, 2019
 
 **Today's Journey**: 
 
