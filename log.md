@@ -82,13 +82,24 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 6: January 06, 2019
 
+**Today's Journey**: Completed the App Customization Specialist Superbadge!
+
+![App Customization Specialist Superbadge](https://github.com/nadinalisbon/100-days-challenge/blob/master/app%20superbadge.PNG "App Customization Specialist Superbadge")
+
+**Perspective:**  I got stuck a few times but I was able to complete it. Super excited! Tomorrow I'm back to javascript and maybe another trailhead.
+
+**Links:**
+
+* Trailhead: [App Customization Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_lightning_platform_app_builder)
+
+
+### Day 7: January 07, 2019
+
 **Today's Journey**:
 
 **Perspective:** 
 
 **Links:**
-
-
 ---
 
 ## 100 Days Of Fitness
@@ -124,10 +135,17 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 **Today's Journey**: 30 minutes of working on my core and some light meditation.
 
-**Perspective:** WIth all the coding today, these exercises were a nice break.
+**Perspective:** With all the coding today, these exercises were a nice break.
+
 ### Day 6: January 06, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of lifting weights, worked out my arms.
+
+**Perspective:** Great day all around.
+
+### Day 7: January 07, 2019
+
+**Today's Journey**:
 
 **Perspective:** 
 
