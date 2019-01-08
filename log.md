@@ -95,7 +95,19 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 7: January 07, 2019
 
-**Today's Journey**:
+**Today's Journey**: Focused purely on Javascript today. Finished the control structure sections (If Statements, Switch, For Loops, While loops).
+
+![Control Structures](https://github.com/nadinalisbon/100-days-challenge/blob/master/control%20structures.PNG)
+
+**Perspective:** Being able to brush up on syntax via this video series has been great. I love that I can pause and rewind as I follow a long.
+
+**Links:**
+ * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+
+### Day 8: January 08, 2019
+
+**Today's Journey**: 
 
 **Perspective:** 
 
@@ -131,11 +143,13 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 **Perspective:** light, but productive.
 
+
 ### Day 5: January 05, 2019
 
 **Today's Journey**: 30 minutes of working on my core and some light meditation.
 
 **Perspective:** With all the coding today, these exercises were a nice break.
+
 
 ### Day 6: January 06, 2019
 
@@ -143,7 +157,15 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 **Perspective:** Great day all around.
 
+
 ### Day 7: January 07, 2019
+
+**Today's Journey**: 30 minutes of Cardio, also got a walk in at lunch.
+
+**Perspective:** My Just Dance Jam session was a great ending to the day.
+
+
+### Day 8: January 08, 2019
 
 **Today's Journey**:
 
