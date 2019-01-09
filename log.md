@@ -107,11 +107,25 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 8: January 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the operators section today, which was the last section for Langauge Basics.
 
-**Perspective:** 
+![Operators](https://github.com/nadinalisbon/100-days-challenge/blob/master/operators.PNG)
+
+![Language Basics Completed](https://github.com/nadinalisbon/100-days-challenge/blob/master/Language%20Basics%20Completed.PNG)
+
+**Perspective:** I love being able to celebrate the small wins.
 
 **Links:**
+* Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+### Day 9: January 09, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+**Links:**
+
 ---
 
 ## 100 Days Of Fitness
@@ -167,7 +181,13 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 8: January 08, 2019
 
+**Today's Journey**: 30 minutes of working on my core.
+
+**Perspective:** Had to split my core exercise into smaller intervals.
+
+### Day 9: January 09, 2019
+
 **Today's Journey**:
 
-**Perspective:** 
+**Perspective:**
 
