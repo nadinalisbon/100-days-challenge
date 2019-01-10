@@ -120,11 +120,27 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 9: January 09, 2019
 
+**Today's Journey**: Completed the Lightning Alternatives to JavaScript Button & Spring '19 Release Highlights Badge!.
+
+![Lightning Alternatives to JavaScript Buttons & Spring '19 Release Highlights](https://github.com/nadinalisbon/100-days-challenge/blob/master/trailhead-Jan9.PNG)
+
+**Perspective:** A great salesforce day!
+
+**Links:**
+
+* Trailhead: [Lightning Alternatives to JavaScript Buttons](https://trailhead.salesforce.com/content/learn/modules/lex_javascript_button_migration)
+
+* Trailhead: [Spring '19 Release Highlights](https://trailhead.salesforce.com/content/learn/modules/spring-19-release-highlights)
+
+
+### Day 10: January 10, 2019
+
 **Today's Journey**:
 
 **Perspective:**
 
 **Links:**
+
 
 ---
 
@@ -186,6 +202,12 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** Had to split my core exercise into smaller intervals.
 
 ### Day 9: January 09, 2019
+
+**Today's Journey**: 30 minutes of lifting weights!
+
+**Perspective:** Everyday my arms are getting stronger! 
+
+### Day 10: January 10, 2019
 
 **Today's Journey**:
 
