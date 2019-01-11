@@ -135,6 +135,19 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 10: January 10, 2019
 
+**Today's Journey**: Completed The Types and Scopes Section and started on Arrays.
+
+![Types and Scopes Section and started on Arrays](https://github.com/nadinalisbon/100-days-challenge/blob/master/Types%20%26%20Scopes%20Arrays%20begining.PNG)
+
+
+**Perspective:** Went through Primitives and Referencing with a fine though comb as pointers have always given me a bit of a struggle.
+
+**Links:**
+* Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+
+### Day 11: January 11, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -208,6 +221,12 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** Everyday my arms are getting stronger! 
 
 ### Day 10: January 10, 2019
+
+**Today's Journey**: 40 minutes of working on core and lower body. Also took a walk at lunch!
+
+**Perspective:** My muscles got a good work out!
+
+### Day 11: January 11, 2019
 
 **Today's Journey**:
 
