@@ -148,11 +148,24 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 11: January 11, 2019
 
+**Today's Journey**: Completed The Arrays Section and started the Objects Section.
+
+![Array and Began working through Objects](https://github.com/nadinalisbon/100-days-challenge/blob/master/Array%20and%20beginning%20of%20objects.PNG)
+
+**Perspective:** I'm loving this course!
+
+**Links:**
+* Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+
+### Day 12: January 12, 2019
+
 **Today's Journey**:
 
 **Perspective:**
 
 **Links:**
+
 
 
 ---
@@ -227,6 +240,12 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** My muscles got a good work out!
 
 ### Day 11: January 11, 2019
+
+**Today's Journey**: 30 minutes of fullbody exercise.
+
+**Perspective:** Less time then yesterday, body is still a little soar.
+
+### Day 12: January 12, 2019
 
 **Today's Journey**:
 
