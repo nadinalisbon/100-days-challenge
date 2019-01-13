@@ -160,13 +160,24 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 12: January 12, 2019
 
+**Today's Journey**: Today I worked on both the Service Cloud for Lightning Experience and Classic. I also finished up the Salesforce Accelerator and Success CLoud Basic badge.
+
+![Salesforce Badges](https://github.com/nadinalisbon/100-days-challenge/blob/master/BadgesJan12.PNG)
+
+**Perspective:** Great day spent in Trailhead.
+
+**Links:**
+* Trailhead: [Salesforce Success Cloud Basics](https://trailhead.salesforce.com/content/learn/modules/salesforce-success-cloud-basics)
+* Trailhead: [Salesforce Accelerators](https://trailhead.salesforce.com/content/learn/modules/salesforce-accelerators)
+* Trailhead: [Service Cloud for Salesforce Classic](https://trailhead.salesforce.com/content/learn/modules/service_basics)
+* Trailhead: [Service Cloud for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/service_lex)
+
+
+### Day 13: January 13, 2019
+
 **Today's Journey**:
 
 **Perspective:**
-
-**Links:**
-
-
 
 ---
 
@@ -246,6 +257,12 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** Less time then yesterday, body is still a little soar.
 
 ### Day 12: January 12, 2019
+
+**Today's Journey**:30 minutes of lifting weights!
+
+**Perspective:** Worked on my arms.
+
+### Day 13: January 13, 2019
 
 **Today's Journey**:
 
