@@ -175,6 +175,23 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 13: January 13, 2019
 
+**Today's Journey**: Continued down the Serivce Cloud Path and completed the Knowledge Basic for Lightning Experiance
+
+![Salesforce Badges](https://github.com/nadinalisbon/100-days-challenge/blob/master/Knowledge%20Basic.PNG)
+
+**Perspective:** Another good day in trailhead.
+
+**Links:**
+  * Trailhead:[Knowledge Basics for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/lightning-knowledge-basics)
+  
+### Day 14: January 14, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 15: January 15, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -263,6 +280,18 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** Worked on my arms.
 
 ### Day 13: January 13, 2019
+
+**Today's Journey**: 30 minutes of Cardio.
+
+**Perspective:** Great Workout!
+
+### Day 14: January 14, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 15: January 15, 2019
 
 **Today's Journey**:
 
