@@ -186,9 +186,21 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
   
 ### Day 14: January 14, 2019
 
-**Today's Journey**:
+**Today's Journey**: Completed The Objects Section. Also started working on the Service Cloud Specialist Trailmix, completed the Customer Service in the Fourth Industrial Revolution.
 
-**Perspective:**
+![Objects](https://github.com/nadinalisbon/100-days-challenge/blob/master/Objects.PNG)
+
+![Salesforce Badge-Customer Service in the Fourth Industrial Revolution](https://github.com/nadinalisbon/100-days-challenge/blob/master/Customer%20Service%20in%20the%20Fourth%20Industrial%20Revolution.PNG)
+
+**Perspective:** Got a better perspective on Prototypes.
+
+**Links:**
+  * Trailhead:[Customer Service in the Fourth Industrial Revolution](https://trailhead.salesforce.com/content/learn/modules/customer-service-in-the-fourth-industrial-revolutions)
+  
+  * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
+  
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
 
 ### Day 15: January 15, 2019
 
@@ -287,9 +299,9 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 14: January 14, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of core workouts!
 
-**Perspective:**
+**Perspective:** Tired but satisified
 
 ### Day 15: January 15, 2019
 
