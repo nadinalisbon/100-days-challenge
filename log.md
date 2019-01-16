@@ -201,8 +201,20 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
   
   * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
 
-
 ### Day 15: January 15, 2019
+
+**Today's Journey**: Lots and Lots of Javascript today. Completed several sections:
+
+![Errors & Functions](https://github.com/nadinalisbon/100-days-challenge/blob/master/errors.functions.PNG)
+
+**Perspective:** Love how the concepts are broken down with examples
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+
+### Day 16: January 16, 2019
 
 **Today's Journey**:
 
@@ -304,6 +316,12 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** Tired but satisified
 
 ### Day 15: January 15, 2019
+
+**Today's Journey**: 40 minutes of Cardio.
+
+**Perspective:** The Just Dance Playlist feature is aaawwwsomeeee!!
+
+### Day 16: January 16, 2019
 
 **Today's Journey**:
 
