@@ -213,8 +213,28 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
   * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
 
-
 ### Day 16: January 16, 2019
+
+**Today's Journey**: Worked on more service cloud related stuff.
+
+![Contact Centers and Leadership badges](https://github.com/nadinalisbon/100-days-challenge/blob/master/Jan16.PNG)
+
+**Perspective:** I was tempted by trailhead and service cloud :).
+
+**Links:**
+  * Trailhead:[Customer Retention for Managers](https://trailhead.salesforce.com/content/learn/modules/customer-retention-for-managers)
+  
+ * Trailhead:[Contact Center Leadership for Executives](https://trailhead.salesforce.com/content/learn/modules/contact-center-leadership-for-executives)
+  
+  * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
+
+### Day 17: January 17, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 18: January 18, 2019
 
 **Today's Journey**:
 
@@ -322,6 +342,18 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 **Perspective:** The Just Dance Playlist feature is aaawwwsomeeee!!
 
 ### Day 16: January 16, 2019
+
+**Today's Journey**: 30 minutes of lifting weights!
+
+**Perspective:** My arms!!
+
+### Day 17: January 17, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 18: January 18, 2019
 
 **Today's Journey**:
 
