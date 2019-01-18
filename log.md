@@ -229,10 +229,27 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
   * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
 
 ### Day 17: January 17, 2019
+**Today's Journey**: More Service Cloud work.
 
-**Today's Journey**:
+![Customer Badges](https://github.com/nadinalisbon/100-days-challenge/blob/master/Jan17.PNG)
 
-**Perspective:**
+Finished a trail!
+
+![Build Your Customer Service Management Toolkit](https://github.com/nadinalisbon/100-days-challenge/blob/master/Build%20Your%20Customer%20Service%20Management%20Toolkit.Jan17.PNG)
+
+**Perspective:** Lots of useful information.
+
+**Links:**
+  * Trailhead:[Team Engagement for Customer Service Managers](https://trailhead.salesforce.com/content/learn/modules/team-engagement-for-customer-service-managers)
+  
+ * Trailhead:[Communication Skills for Customer Service Agents](https://trailhead.salesforce.com/content/learn/modules/communication-skills-for-customer-service-agents)
+ 
+ * Trailhead:[Artificial Intelligence for Customer Service](https://trailhead.salesforce.com/content/learn/modules/artificial-intelligence-for-customer-service)
+ 
+ * Trail:[Build Your Customer Service Management Toolkit](https://trailhead.salesforce.com/en/content/learn/trails/build-your-customer-service-management-toolkit?trailmix_creator_id=0052J000008Yp8UQAS&trailmix_id=service-cloud-specialist-trailmix)
+  
+  * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
+
 
 ### Day 18: January 18, 2019
 
@@ -325,7 +342,7 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 13: January 13, 2019
 
-**Today's Journey**: 30 minutes of Cardio.
+**Today's Journey**: 
 
 **Perspective:** Great Workout!
 
@@ -349,9 +366,9 @@ Started working on the App Customization Specialist Superbadge. Two Sections Lef
 
 ### Day 17: January 17, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of Cardio.
 
-**Perspective:**
+**Perspective:** Early morning exercise is a no go!
 
 ### Day 18: January 18, 2019
 
