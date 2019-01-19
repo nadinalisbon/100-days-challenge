@@ -253,6 +253,29 @@ Finished a trail!
 
 ### Day 18: January 18, 2019
 
+**Today's Journey**: Worked more on the Service Cloud Specialist Trailmix by finishing two badges.
+
+![Service Cloud and Lightning](https://github.com/nadinalisbon/100-days-challenge/blob/master/Jan18.PNG)
+
+**Perspective:** Three day streak of Service Cloud Day! This weekend I will dive back into javscript!
+
+
+**Links:**
+  * Trailhead:[Service Cloud Transition to Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/service_trans)
+  
+ * Trailhead:[Service Cloud Platform Efficiency](https://trailhead.salesforce.com/content/learn/modules/service-cloud-platform-efficiency)
+ 
+ * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
+
+
+### Day 19: January 19, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 20: January 20, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -371,6 +394,18 @@ Finished a trail!
 **Perspective:** Early morning exercise is a no go!
 
 ### Day 18: January 18, 2019
+
+**Today's Journey**: 30 minutes of Cardio.
+
+**Perspective:** My body is so sore,cardio seems to be the only thing I can do right now.
+
+### Day 19: January 19, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 20: January 20, 2019
 
 **Today's Journey**:
 
