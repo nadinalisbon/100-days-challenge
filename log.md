@@ -270,9 +270,9 @@ Finished a trail!
 
 ### Day 19: January 19, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spent the afternoon studying and brushing up on service cloud.
 
-**Perspective:**
+**Perspective:** preparing to take this exam.
 
 ### Day 20: January 20, 2019
 
@@ -401,9 +401,9 @@ Finished a trail!
 
 ### Day 19: January 19, 2019
 
-**Today's Journey**:
+**Today's Journey**:  30 minutes of lifting weights!
 
-**Perspective:**
+**Perspective:** Worked my arms!
 
 ### Day 20: January 20, 2019
 
