@@ -276,6 +276,48 @@ Finished a trail!
 
 ### Day 20: January 20, 2019
 
+**Today's Journey**: Back on the Javascipt Trail completed the Dom Section.
+
+![DOM](https://github.com/nadinalisbon/100-days-challenge/blob/master/DOM.Jan20.PNG)
+
+**Perspective:** The provided cheet sheets have been very useful.
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
+### Day 21: January 21, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 22: January 22, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 23: January 23, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 23: January 23, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 24: January 24, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 25: January 25, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -406,6 +448,42 @@ Finished a trail!
 **Perspective:** Worked my arms!
 
 ### Day 20: January 20, 2019
+
+**Today's Journey**: 30 minutes of Cardio.
+
+**Perspective:** Great way to end the night!
+
+### Day 21: January 21, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 22: January 22, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 23: January 23, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 23: January 23, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 24: January 24, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 25: January 25, 2019
 
 **Today's Journey**:
 
