@@ -288,9 +288,16 @@ Finished a trail!
 
 ### Day 21: January 21, 2019
 
-**Today's Journey**:
+**Today's Journey**: Completed a few sections today.
 
-**Perspective:**
+![Events,AJAX & Post](https://github.com/nadinalisbon/100-days-challenge/blob/master/Events.AJAXandPost.Jan21.PNG)
+
+**Perspective:** Almost done with this couse
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+
 
 ### Day 22: January 22, 2019
 
@@ -455,9 +462,9 @@ Finished a trail!
 
 ### Day 21: January 21, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of stretching  and light yoga.
 
-**Perspective:** 
+**Perspective:** May have to get a massage this week!
 
 ### Day 22: January 22, 2019
 
