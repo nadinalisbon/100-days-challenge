@@ -301,9 +301,22 @@ Finished a trail!
 
 ### Day 22: January 22, 2019
 
-**Today's Journey**:
+**Today's Journey**: Completed the libaries section! Starting on the built in project tomorrow! Also completed a badge in the Service Cloud Specialist Trailmix.
 
-**Perspective:**
+![Libraries](https://github.com/nadinalisbon/100-days-challenge/blob/master/Libraries.Jan22.PNG)
+
+![Einstein Bots Basics](https://github.com/nadinalisbon/100-days-challenge/blob/master/EinsteinBotsBasics.Jan22.PNG)
+
+**Perspective:** Need to review the cheats sheets before attempting the project!
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+  
+  * Trailhead:[Einstein Bots Basics](https://trailhead.salesforce.com/content/learn/modules/service_bots_basics)
+
+  * Trailmix:[Service Cloud Specialist Trailmix](https://trailhead.salesforce.com/users/0052J000008Yp8UQAS/trailmixes/service-cloud-specialist-trailmix)
+
 
 ### Day 23: January 23, 2019
 
@@ -468,9 +481,9 @@ Finished a trail!
 
 ### Day 22: January 22, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of lifting weights!
 
-**Perspective:**
+**Perspective:** streching those muscles!
 
 ### Day 23: January 23, 2019
 
