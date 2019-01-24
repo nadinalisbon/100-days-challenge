@@ -497,7 +497,7 @@ Finished a trail!
 
 **Today's Journey**: 30 minutes of lifting wieghts and leg extension
 
-**Perspective:**
+**Perspective:** Today was an extremely log day! Glad I still was able to get some exercise in!
 
 ### Day 24: January 24, 2019
 
