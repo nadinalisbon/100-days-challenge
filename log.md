@@ -320,17 +320,25 @@ Finished a trail!
 
 ### Day 23: January 23, 2019
 
-**Today's Journey**:
+**Today's Journey**: Started the mini project in this course.
 
-**Perspective:**
+![In Progess App](https://github.com/nadinalisbon/100-days-challenge/blob/master/Course%20progress.Jan23.PNG)
 
-### Day 23: January 23, 2019
 
-**Today's Journey**:
+**Perspective:** I spent a lot of time working out the nuances of plunker. It was a real learning experiance hopefully I can make more progress tomorrow.
 
-**Perspective:**
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+  
 
 ### Day 24: January 24, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 25: January 25, 2019
 
 **Today's Journey**:
 
@@ -427,7 +435,7 @@ Finished a trail!
 
 ### Day 13: January 13, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of Cardio!
 
 **Perspective:** Great Workout!
 
@@ -487,13 +495,7 @@ Finished a trail!
 
 ### Day 23: January 23, 2019
 
-**Today's Journey**:
-
-**Perspective:**
-
-### Day 23: January 23, 2019
-
-**Today's Journey**:
+**Today's Journey**: 30 minutes of lifting wieghts and leg extension
 
 **Perspective:**
 
@@ -504,6 +506,12 @@ Finished a trail!
 **Perspective:**
 
 ### Day 25: January 25, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 26: January 26, 2019
 
 **Today's Journey**:
 
