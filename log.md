@@ -334,9 +334,14 @@ Finished a trail!
 
 ### Day 24: January 24, 2019
 
-**Today's Journey**:
+**Today's Journey**: Still working on the mini project.
 
-**Perspective:**
+**Perspective:** Still having issue with the mini project. May have to ditch plunker. plan to try other options!
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+  
 
 ### Day 25: January 25, 2019
 
@@ -501,9 +506,9 @@ Finished a trail!
 
 ### Day 24: January 24, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of pushups and situps.
 
-**Perspective:**
+**Perspective:** Working my core!
 
 ### Day 25: January 25, 2019
 
