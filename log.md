@@ -342,18 +342,28 @@ Finished a trail!
 
   * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
   
-
+  
 ### Day 25: January 25, 2019
+
+**Today's Journey**: A great day, completed the course and got my App working!
+
+![Course Complete](https://github.com/nadinalisbon/100-days-challenge/blob/master/JavaScriptCoursedone-jan25.PNG)
+
+![App Complete](https://github.com/nadinalisbon/100-days-challenge/blob/master/ProjectDoneJan25.PNG)
+
+
+**Perspective:** I had to start over and do it local but now it's up and running.
+
+**Links:**
+
+  * Course: [Accelerated JavaScript Training](https://www.packtpub.com/application-development/accelerated-javascript-training-video)
+  
+### Day 26: January 26, 2019
 
 **Today's Journey**:
 
 **Perspective:**
-
-### Day 25: January 25, 2019
-
-**Today's Journey**:
-
-**Perspective:**
+  
 
 ---
 
@@ -512,9 +522,9 @@ Finished a trail!
 
 ### Day 25: January 25, 2019
 
-**Today's Journey**:
+**Today's Journey**: 1 hour of cardio
 
-**Perspective:**
+**Perspective:** It was a great day!
 
 ### Day 26: January 26, 2019
 
