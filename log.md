@@ -360,6 +360,24 @@ Finished a trail!
   
 ### Day 26: January 26, 2019
 
+**Today's Journey**: Spend the day looking over service cloud material!
+
+**Perspective:** A few welcomed distraction but a good day all around
+
+### Day 27: January 27, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 28: January 28, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 29: January 29, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -528,7 +546,27 @@ Finished a trail!
 
 ### Day 26: January 26, 2019
 
+**Today's Journey**: 30 minutes of cardio
+
+**Perspective:** Didn't want to go to hard after yesterdays workout!
+
+### Day 27: January 27, 2019
+
 **Today's Journey**:
 
 **Perspective:**
+
+### Day 28: January 28, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 29: January 29, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+  
+
 
