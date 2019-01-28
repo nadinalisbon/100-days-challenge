@@ -366,9 +366,9 @@ Finished a trail!
 
 ### Day 27: January 27, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spend another day working with service cloud material!
 
-**Perspective:**
+**Perspective:** Need to spend more time studying Contact Center Analytics.
 
 ### Day 28: January 28, 2019
 
@@ -552,9 +552,9 @@ Finished a trail!
 
 ### Day 27: January 27, 2019
 
-**Today's Journey**:
+**Today's Journey**: 15 minutes of cardio in the AM & 30 minutes of Core Workout!
 
-**Perspective:**
+**Perspective:** Great day to be fit!
 
 ### Day 28: January 28, 2019
 
