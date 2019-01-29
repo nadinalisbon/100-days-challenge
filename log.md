@@ -560,7 +560,7 @@ Finished a trail!
 
 **Today's Journey**: 30 minutes of bicep curls with light weights (5lbs).
 
-**Perspective:**Building my arm muscles.
+**Perspective:** Building my arm muscles.
 
 ### Day 29: January 29, 2019
 
