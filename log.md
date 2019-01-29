@@ -372,9 +372,9 @@ Finished a trail!
 
 ### Day 28: January 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: Another day of Service Cloud
 
-**Perspective:**
+**Perspective:** Did a practice test and still need to brush up on some gaps.
 
 ### Day 29: January 29, 2019
 
@@ -558,9 +558,9 @@ Finished a trail!
 
 ### Day 28: January 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of bicep curls with light weights (5lbs).
 
-**Perspective:**
+**Perspective:**Building my arm muscles.
 
 ### Day 29: January 29, 2019
 
