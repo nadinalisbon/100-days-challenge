@@ -378,6 +378,22 @@ Finished a trail!
 
 ### Day 29: January 29, 2019
 
+**Today's Journey**: Took a break from regular review and worked a trailhead!
+
+![Service Console Customization](https://github.com/nadinalisbon/100-days-challenge/blob/master/seviceconsole.Jan29.PNG)
+
+**Perspective:** Great day in Trailhead!
+
+* Trailhead:[Service Console Customization](https://trailhead.salesforce.com/content/learn/modules/service_console_customize?trail_id=service_cloud&trailmix_creator_id=jimsharp&trailmix_id=service-cloud-skill-sharpening)
+
+### Day 30: January 30, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 31 January 31, 2019
+
 **Today's Journey**:
 
 **Perspective:**
@@ -563,6 +579,18 @@ Finished a trail!
 **Perspective:** Building my arm muscles.
 
 ### Day 29: January 29, 2019
+
+**Today's Journey**: 30 minutes of lifting weights!
+
+**Perspective:** Muscle, muscle and o some more muscle!
+
+### Day 30: January 30, 2019
+
+**Today's Journey**:
+
+**Perspective:**
+
+### Day 31 January 31, 2019
 
 **Today's Journey**:
 
