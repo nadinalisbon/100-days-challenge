@@ -388,9 +388,9 @@ Finished a trail!
 
 ### Day 30: January 30, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spend an hour looking over service cloud material.
 
-**Perspective:**
+**Perspective:** Slow but steady!
 
 ### Day 31 January 31, 2019
 
@@ -586,9 +586,9 @@ Finished a trail!
 
 ### Day 30: January 30, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of stretching and light yoga.
 
-**Perspective:**
+**Perspective:** Giving the arms a break!
 
 ### Day 31 January 31, 2019
 
