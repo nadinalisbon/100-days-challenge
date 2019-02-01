@@ -394,9 +394,9 @@ Finished a trail!
 
 ### Day 31 January 31, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spent an hour studying Service Cloud!
 
-**Perspective:**
+**Perspective:** A great ending to the month!
   
 
 ---
@@ -592,9 +592,9 @@ Finished a trail!
 
 ### Day 31 January 31, 2019
 
-**Today's Journey**:
+**Today's Journey**: Worked my arms today with some Axe Throwing!
 
-**Perspective:**
+**Perspective:** Yes, I count this as exercise! Great work out you should try it!
   
 
 
