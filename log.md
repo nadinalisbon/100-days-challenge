@@ -384,6 +384,9 @@ Finished a trail!
 
 **Perspective:** Great day in Trailhead!
 
+
+**Links:**
+
 * Trailhead:[Service Console Customization](https://trailhead.salesforce.com/content/learn/modules/service_console_customize?trail_id=service_cloud&trailmix_creator_id=jimsharp&trailmix_id=service-cloud-skill-sharpening)
 
 ### Day 30: January 30, 2019
@@ -397,8 +400,31 @@ Finished a trail!
 **Today's Journey**: Spent an hour studying Service Cloud!
 
 **Perspective:** A great ending to the month!
-  
 
+### Day 32 February 01, 2019
+
+**Today's Journey**: Started the month with a shiny new badge!
+
+![Completed Module Service Console Components](https://github.com/nadinalisbon/100-days-challenge/blob/master/ServiceConsoleComponent.Feb01.PNG)
+
+**Perspective:** Loved working on this badge!
+
+**Links:**
+
+* Trailhead:[Service Console Components](https://trailhead.salesforce.com/content/learn/modules/service_components)
+
+### Day 33 February 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+  
+### Day 34 February 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+  
 ---
 
 ## 100 Days Of Fitness
@@ -595,6 +621,24 @@ Finished a trail!
 **Today's Journey**: Worked my arms today with some Axe Throwing!
 
 **Perspective:** Yes, I count this as exercise! Great work out you should try it!
+
+### Day 32 February 01, 2019
+
+**Today's Journey**: 40 minutes of cardio
+
+**Perspective:** Great way to start get a burst of energy!
+
+### Day 33 February 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+  
+### Day 34 February 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
   
 
 
