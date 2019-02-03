@@ -415,9 +415,9 @@ Finished a trail!
 
 ### Day 33 February 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Spent some time study service cloud focusing on Case Management.
 
-**Perspective:** 
+**Perspective:** Good Day in the clouds.
   
 ### Day 34 February 03, 2019
 
@@ -626,13 +626,13 @@ Finished a trail!
 
 **Today's Journey**: 40 minutes of cardio
 
-**Perspective:** Great way to start get a burst of energy!
+**Perspective:** Great way to start the day with a burst of energy!
 
 ### Day 33 February 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 35 minutes of cardio
 
-**Perspective:** 
+**Perspective:** Great afternoon work out!
   
 ### Day 34 February 03, 2019
 
