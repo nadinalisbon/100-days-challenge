@@ -421,6 +421,30 @@ Finished a trail!
   
 ### Day 34 February 03, 2019
 
+**Today's Journey**: Back on the trails!
+
+![Case Feed](https://github.com/nadinalisbon/100-days-challenge/blob/master/CaseFeed.Feb3.PNG)
+
+**Perspective:** Kept getting an error but I was finally able to complete it.
+
+**Links:**
+
+* Trailhead:[Case Feed](https://trailhead.salesforce.com/content/learn/modules/service_casefeed_basics)
+
+### Day 35 February 04, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 36 February 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 37 February 06, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
@@ -635,6 +659,24 @@ Finished a trail!
 **Perspective:** Great afternoon work out!
   
 ### Day 34 February 03, 2019
+
+**Today's Journey**: 30 minutes of lifting weights!
+
+**Perspective:** Increased the weights today by 10lbs.!
+
+### Day 35 February 04, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 36 February 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 37 February 06, 2019
 
 **Today's Journey**: 
 
