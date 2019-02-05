@@ -433,9 +433,20 @@ Finished a trail!
 
 ### Day 35 February 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Learned about Lightning Web Components as part of Salesforce Developer Week. Worked on some Javascript, completed a badge and finished a trail.
 
-**Perspective:** 
+**Perspective:** Lightning Web Components will be interesting.
+
+![Get Started with Modern JavaScript Development](https://github.com/nadinalisbon/100-days-challenge/blob/master/ModernJavascript.Feb4.PNG)
+
+![Learn to Work with Javascript](https://github.com/nadinalisbon/100-days-challenge/blob/master/Trail.JavaScript.Feb4.PNG)
+
+**Links:**
+
+* Trailhead: [Get Started with Modern JavaScript Development](https://trailhead.salesforce.com/content/learn/modules/modern-javascript-development)
+
+* Trail: [Learn to Work with Javascript](https://trailhead.salesforce.com/content/learn/trails/learn-to-work-with-javascript)
+
 
 ### Day 36 February 05, 2019
 
@@ -666,9 +677,9 @@ Finished a trail!
 
 ### Day 35 February 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:** 
+**Perspective:** Great morning work out!
 
 ### Day 36 February 05, 2019
 
