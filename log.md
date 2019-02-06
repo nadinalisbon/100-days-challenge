@@ -450,9 +450,9 @@ Finished a trail!
 
 ### Day 36 February 05, 2019
 
-**Today's Journey**: 
+**Today's Journey**: An hour of studying Service Cloud! 
 
-**Perspective:** 
+**Perspective:** Tired today but push through.
 
 ### Day 37 February 06, 2019
 
@@ -683,9 +683,9 @@ Finished a trail!
 
 ### Day 36 February 05, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio!
 
-**Perspective:** 
+**Perspective:** Just Dance Playlist!
 
 ### Day 37 February 06, 2019
 
