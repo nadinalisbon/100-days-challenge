@@ -456,9 +456,9 @@ Finished a trail!
 
 ### Day 37 February 06, 2019
 
-**Today's Journey**: 
+**Today's Journey**: More Service cloud review!
 
-**Perspective:** 
+**Perspective:** So far so good!
   
 ---
 
@@ -689,9 +689,9 @@ Finished a trail!
 
 ### Day 37 February 06, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 35 minutes of Cardio!
 
-**Perspective:** 
+**Perspective:** Some times you have to Just Dance It out!
   
 
 
