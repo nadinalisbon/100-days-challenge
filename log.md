@@ -459,6 +459,24 @@ Finished a trail!
 **Today's Journey**: More Service cloud review!
 
 **Perspective:** So far so good!
+
+### Day 38 February 07, 2019
+
+**Today's Journey**: Another day of Serice Cloud Review. Reviewing some quizlet reasources!
+
+**Perspective:** Did better then last time.
+
+### Day 39 February 08, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 40 February 09, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
   
 ---
 
@@ -692,6 +710,24 @@ Finished a trail!
 **Today's Journey**: 35 minutes of Cardio!
 
 **Perspective:** Some times you have to Just Dance It out!
+
+### Day 38 February 07, 2019
+
+**Today's Journey**: 30 minutes of lifting weights!
+
+**Perspective:** Building these muscles!
+
+### Day 39 February 08, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 40 February 09, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
   
 
 
