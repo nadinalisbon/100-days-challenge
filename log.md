@@ -468,9 +468,15 @@ Finished a trail!
 
 ### Day 39 February 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Back on the Trails! Completed the Entitlement Badge!
 
-**Perspective:** 
+![Entitlement Management](https://github.com/nadinalisbon/100-days-challenge/blob/master/EntitlementManagement.Feb8.PNG)
+
+**Perspective:** Lovely day trailblazing!
+
+**Links:**
+
+* Trailhead: [Entitlement Management](https://trailhead.salesforce.com/content/learn/modules/entitlements)
 
 ### Day 40 February 09, 2019
 
@@ -719,9 +725,9 @@ Finished a trail!
 
 ### Day 39 February 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Did cardio and Squats!
 
-**Perspective:** 
+**Perspective:** A cold day today, but still a great day to get in some exercise!
 
 ### Day 40 February 09, 2019
 
