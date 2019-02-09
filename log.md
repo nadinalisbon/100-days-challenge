@@ -725,7 +725,7 @@ Finished a trail!
 
 ### Day 39 February 08, 2019
 
-**Today's Journey**: Did cardio and Squats!
+**Today's Journey**: 30 minutes cardio and Squats!
 
 **Perspective:** A cold day today, but still a great day to get in some exercise!
 
