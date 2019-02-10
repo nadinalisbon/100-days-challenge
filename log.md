@@ -480,6 +480,43 @@ Finished a trail!
 
 ### Day 40 February 09, 2019
 
+**Today's Journey**: Studies for Service Cloud and got the Classic Knowledge Basics Badge.
+
+![Knowledge Basics for Salesforce Classic](https://github.com/nadinalisbon/100-days-challenge/blob/master/KnowledgeBasicsClassic.Feb9.PNG)
+
+
+**Perspective:** Already had the lightning one might as well I get the classic one as well.
+
+**Links:**
+
+* Trailhead: [Knowledge Basics for Salesforce Classic](https://trailhead.salesforce.com/content/learn/modules/knowledge_essentials)
+
+### Day 41 February 10, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 42 February 11, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 43 February 12, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 44 February 13, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 45 February 14, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
@@ -731,9 +768,37 @@ Finished a trail!
 
 ### Day 40 February 09, 2019
 
+**Today's Journey**: Two hours walking around
+
+**Perspective:** To cold for outside walking, so had to walk inside.
+  
+### Day 41 February 10, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
-  
 
+### Day 42 February 11, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 43 February 12, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 44 February 13, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 45 February 14, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
 
