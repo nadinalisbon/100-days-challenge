@@ -785,7 +785,7 @@ Finished a trail!
   
 ### Day 41 February 10, 2019
 
-**Today's Journey**: T1.5 hours walking 
+**Today's Journey**: 1.5 hours walking 
 
 **Perspective:** Coding and walking is great way to get the creative juices flowing.
 
