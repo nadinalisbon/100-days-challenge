@@ -493,9 +493,20 @@ Finished a trail!
 
 ### Day 41 February 10, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Knowledge Search Basics badge and also the Keep Customers Happy with Service Cloud for Salesforce Classic Trail.
 
-**Perspective:** 
+![Knowledge Search Basics](https://github.com/nadinalisbon/100-days-challenge/blob/master/KnowledgeSearchBasics.Feb%2010.PNG)
+
+![Keep Customers Happy with Service Cloud for Salesforce Classic](https://github.com/nadinalisbon/100-days-challenge/blob/master/Keep%20Customers%20Happy.Feb%2010.PNG)
+
+**Perspective:** Terrific day of Service Cloud studying.
+
+**Links:**
+
+* Trailhead: [Knowledge Search Basics](https://trailhead.salesforce.com/content/learn/modules/knowledge_search_basics)
+
+* Trail: [Keep Customers Happy with Service Cloud for Salesforce Classic](https://trailhead.salesforce.com/content/learn/trails/service_cloud)
+
 
 ### Day 42 February 11, 2019
 
@@ -774,9 +785,9 @@ Finished a trail!
   
 ### Day 41 February 10, 2019
 
-**Today's Journey**: 
+**Today's Journey**: T1.5 hours walking 
 
-**Perspective:** 
+**Perspective:** Coding and walking is great way to get the creative juices flowing.
 
 ### Day 42 February 11, 2019
 
