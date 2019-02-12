@@ -510,9 +510,16 @@ Finished a trail!
 
 ### Day 42 February 11, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Service Cloud Agent Productivity badge.
 
-**Perspective:** 
+![Service Cloud Agent Productivity](https://github.com/nadinalisbon/100-days-challenge/blob/master/ServiceCloudAgentProductivity.Feb11.PNG)
+
+**Perspective:** Had a lot of issues with the dev org but I was able to get through it!
+
+**Links:**
+
+* Trailhead: [Service Cloud Agent Productivity](https://trailhead.salesforce.com/content/learn/modules/service-cloud-agent-productivity)
+
 
 ### Day 43 February 12, 2019
 
@@ -791,9 +798,9 @@ Finished a trail!
 
 ### Day 42 February 11, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of stretching  and light yoga.
 
-**Perspective:** 
+**Perspective:** yoga does the body good!
 
 ### Day 43 February 12, 2019
 
