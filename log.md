@@ -523,9 +523,9 @@ Finished a trail!
 
 ### Day 43 February 12, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 1hr of Service cloud Review!
 
-**Perspective:** 
+**Perspective:** Would have love to do more review and perhaps complete a badge but the day time duties bleed into night.
 
 ### Day 44 February 13, 2019
 
@@ -804,9 +804,9 @@ Finished a trail!
 
 ### Day 43 February 12, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of pushups and situps.
 
-**Perspective:** 
+**Perspective:** Today was a long day! Looking fowarded to a better day tomorrow.
 
 ### Day 44 February 13, 2019
 
