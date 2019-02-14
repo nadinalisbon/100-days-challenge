@@ -529,9 +529,17 @@ Finished a trail!
 
 ### Day 44 February 13, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Web Chat Basics badge.
 
-**Perspective:** 
+![Web Chat Basics](https://github.com/nadinalisbon/100-days-challenge/blob/master/WebChatBasics.Feb13.PNG)
+
+**Perspective:** Super Excited! I unlocked the service cloud Superbadge!
+
+**Links:**
+
+* Trailhead: [Web Chat Basics](https://trailhead.salesforce.com/content/learn/modules/web-chat)
+
+
 
 ### Day 45 February 14, 2019
 
@@ -810,9 +818,9 @@ Finished a trail!
 
 ### Day 44 February 13, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 35 minutes of walking.
 
-**Perspective:** 
+**Perspective:** A lovely day to walk outside and indoors!
 
 ### Day 45 February 14, 2019
 
