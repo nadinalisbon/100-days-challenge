@@ -539,13 +539,42 @@ Finished a trail!
 
 * Trailhead: [Web Chat Basics](https://trailhead.salesforce.com/content/learn/modules/web-chat)
 
-
-
 ### Day 45 February 14, 2019
+
+**Today's Journey**: Attended the Certification Preparation for Service Cloud Consultant (CRT-261) with Salesforce Certification Days. #ServiceCloud #CertificationDay
+
+**Perspective:**  It was a great day spent Service Cloud .
+
+### Day 46 February 15, 2019
 
 **Today's Journey**: 
 
 **Perspective:** 
+
+### Day 47 February 16, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 48 February 17, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 49 February 18, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 50 February 19, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+  
   
 ---
 
@@ -824,7 +853,36 @@ Finished a trail!
 
 ### Day 45 February 14, 2019
 
+**Today's Journey**: 1hr of walking
+
+**Perspective:** Walked and worked on the treadmill it was perfect!
+
+### Day 46 February 15, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
 
+### Day 47 February 16, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 48 February 17, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 49 February 18, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 50 February 19, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
