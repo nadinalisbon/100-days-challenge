@@ -547,9 +547,9 @@ Finished a trail!
 
 ### Day 46 February 15, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 1hr of Service cloud Review!
 
-**Perspective:** 
+**Perspective:** Great end to the week!
 
 ### Day 47 February 16, 2019
 
@@ -859,9 +859,9 @@ Finished a trail!
 
 ### Day 46 February 15, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 1hr of walking
 
-**Perspective:** 
+**Perspective:** WPerfect end to the day!!!
 
 ### Day 47 February 16, 2019
 
