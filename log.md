@@ -553,9 +553,9 @@ Finished a trail!
 
 ### Day 47 February 16, 2019
 
-**Today's Journey**: 
+**Today's Journey**:  2hr of Service cloud Review! Brushed up on KPI and Solution.
 
-**Perspective:** 
+**Perspective:** Great day of review
 
 ### Day 48 February 17, 2019
 
@@ -861,13 +861,13 @@ Finished a trail!
 
 **Today's Journey**: 1hr of walking
 
-**Perspective:** WPerfect end to the day!!!
+**Perspective:** Perfect end to the day!!!
 
 ### Day 47 February 16, 2019
 
-**Today's Journey**: 
+**Today's Journey**: A few hours of walkinging
 
-**Perspective:** 
+**Perspective:** Another cold day I had to push through and get some exercise in.
 
 ### Day 48 February 17, 2019
 
