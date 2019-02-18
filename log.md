@@ -559,9 +559,12 @@ Finished a trail!
 
 ### Day 48 February 17, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Last day of Service Cloud Review. I also successfully completed the exam today!!
 
-**Perspective:** 
+![Service Cloud Certification](https://github.com/nadinalisbon/100-days-challenge/blob/master/Service%20Cloud%20Cert.PNG)
+
+**Perspective:** Extremely happy I can switch to review mode and no longer have to study so intensely.
+
 
 ### Day 49 February 18, 2019
 
@@ -871,9 +874,9 @@ Finished a trail!
 
 ### Day 48 February 17, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 45 minutes of Cardio
 
-**Perspective:** 
+**Perspective:** Ending the day with Cardio!
 
 ### Day 49 February 18, 2019
 
