@@ -568,9 +568,13 @@ Finished a trail!
 
 ### Day 49 February 18, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Started my LWC ramp up!!! Went through the LWC Playlist
 
-**Perspective:** 
+**Perspective:** Super excited to get hands on tomorrow.
+
+**Links:**
+
+* Youtube: [LWC Playlist](https://www.youtube.com/playlist?list=PLgIMQe2PKPSJ0hK7DInqhLlw7QK5Pt6fD)
 
 ### Day 50 February 19, 2019
 
@@ -880,9 +884,9 @@ Finished a trail!
 
 ### Day 49 February 18, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of light cardio
 
-**Perspective:** 
+**Perspective:** Muscles are a bit soar tonight.
 
 ### Day 50 February 19, 2019
 
