@@ -578,9 +578,15 @@ Finished a trail!
 
 ### Day 50 February 19, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Worked on more LWC. Completed the Quick Start: Lightning Web Components Badge.
 
-**Perspective:** 
+![Quick Start: Lightning Web Components](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20Web%20Components.Feb19.PNG)
+
+**Perspective:** Super Excited to also start playing with SFDX.
+
+**Links:**
+
+* Trailhead: [Quick Start: Lightning Web Components](https://trailhead.salesforce.com/content/learn/projects/quick-start-lightning-web-components?trail_id=build-lightning-web-components)
   
   
 ---
@@ -890,6 +896,6 @@ Finished a trail!
 
 ### Day 50 February 19, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of Cardio
 
-**Perspective:** 
+**Perspective:** Muscles still sore.
