@@ -588,6 +588,42 @@ Finished a trail!
 
 * Trailhead: [Quick Start: Lightning Web Components](https://trailhead.salesforce.com/content/learn/projects/quick-start-lightning-web-components?trail_id=build-lightning-web-components)
   
+ ### Day 51 February 20, 2019
+
+**Today's Journey**: Completed the Set Up Your Lightning Web Components Developer Tools Badge. Spent some time in the developer guide reading up on the Component Life Cycle.
+
+![Set Up Your Lightning Web Components Developer Tools](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20Web%20Components%20Developer%20Tools.Feb%2020.PNG)
+
+**Perspective:** Super Excited to also start playing with SFDX.
+
+**Links:**
+
+* Trailhead: [Set Up Your Lightning Web Components Developer Tools](https://trailhead.salesforce.com/content/learn/projects/set-up-your-lightning-web-components-developer-tools)
+
+### Day 52 February 21, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 53 February 22, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 54 February 23, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 55 February 24, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+ 
   
 ---
 
@@ -899,3 +935,33 @@ Finished a trail!
 **Today's Journey**: 30 minutes of Cardio
 
 **Perspective:** Muscles still sore.
+
+ ### Day 51 February 20, 2019
+
+**Today's Journey**: 1 hr walking
+
+**Perspective:** Great day to strech my muscles
+
+### Day 52 February 21, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 53 February 22, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 54 February 23, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 55 February 24, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
