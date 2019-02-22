@@ -602,9 +602,9 @@ Finished a trail!
 
 ### Day 52 February 21, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spent an hour reading about Testing Lightning Web Components. Need to spend more time learning about Jest.
 
-**Perspective:** 
+**Perspective:** Not familiar with Jest will have to spend more time familiarizing with Jest.
 
 ### Day 53 February 22, 2019
 
@@ -944,9 +944,9 @@ Finished a trail!
 
 ### Day 52 February 21, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of light cardio
 
-**Perspective:** 
+**Perspective:** A bit tired from all the activities today.
 
 ### Day 53 February 22, 2019
 
