@@ -608,9 +608,9 @@ Finished a trail!
 
 ### Day 53 February 22, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spent more time reading up on Jest!
 
-**Perspective:** 
+**Perspective:** Slow but steady!
 
 ### Day 54 February 23, 2019
 
@@ -950,9 +950,9 @@ Finished a trail!
 
 ### Day 53 February 22, 2019
 
-**Today's Journey**:
+**Today's Journey**: 1.5 walking  
 
-**Perspective:** 
+**Perspective:** a good day for indoor walking.
 
 ### Day 54 February 23, 2019
 
