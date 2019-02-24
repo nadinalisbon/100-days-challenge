@@ -614,9 +614,20 @@ Finished a trail!
 
 ### Day 54 February 23, 2019
 
-**Today's Journey**:
+**Today's Journey**:Completed the Quick Start: Visual Studio Code for Salesforce Development Badge. Also started working on the Service Cloud Specialist Super Badge. 
 
-**Perspective:** 
+![Quick Start: Visual Studio Code for Salesforce Development](https://github.com/nadinalisbon/100-days-challenge/blob/master/Quick%20start%20VSC.Feb%2023.PNG)
+
+![Service Cloud Specialist](https://github.com/nadinalisbon/100-days-challenge/blob/master/Service%20Cloud%20Speclist%20Badge.In%20Progress.Feb%2023.PNG)
+
+**Perspective:** Played wuth SFDX some more today and worked on completing my Service Cloud Specialist Super Badge
+
+**Links:**
+
+* Trailhead: [Quick Start: Visual Studio Code for Salesforce Development](https://trailhead.salesforce.com/content/learn/projects/quickstart-vscode-salesforce)
+
+* Trailhead-Super Badge: [Service Cloud Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-service-cloud-admin-specialist)
+
 
 ### Day 55 February 24, 2019
 
@@ -950,15 +961,16 @@ Finished a trail!
 
 ### Day 53 February 22, 2019
 
-**Today's Journey**: 1.5 walking  
+**Today's Journey**: 1.5hrs walking  
 
 **Perspective:** a good day for indoor walking.
 
 ### Day 54 February 23, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of stretching  and light yoga.
 
-**Perspective:** 
+**Perspective:** A relaxing Saturday
+
 
 ### Day 55 February 24, 2019
 
