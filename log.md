@@ -631,11 +631,39 @@ Finished a trail!
 
 ### Day 55 February 24, 2019
 
+**Today's Journey**: Still working on the Service Cloud Specialist Super Badge, also worked in the LWC playgroud
+
+**Perspective:** Got stuck on challenge 3 hope I can takle more tomorrow.
+
+**Links:**
+
+* Trailhead-Super Badge: [Service Cloud Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-service-cloud-admin-specialist)
+ 
+### Day 56 February 25, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 57 February 26, 2019
+
 **Today's Journey**:
 
 **Perspective:** 
  
-  
+ ### Day 58 February 27, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 59 February 28, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+ 
+   
 ---
 
 ## 100 Days Of Fitness
@@ -974,6 +1002,31 @@ Finished a trail!
 
 ### Day 55 February 24, 2019
 
+**Today's Journey**: 1hr or cardio
+
+**Perspective:** A nice way to end the day
+
+### Day 56 February 25, 2019
+
 **Today's Journey**:
 
 **Perspective:** 
+
+### Day 57 February 26, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+ 
+ ### Day 58 February 27, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 59 February 28, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+ 
