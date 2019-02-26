@@ -641,9 +641,17 @@ Finished a trail!
  
 ### Day 56 February 25, 2019
 
-**Today's Journey**:
+**Today's Journey**:Wored a bit more on the Service Cloud Super Badge and made a bit more progress. 
 
-**Perspective:** 
+![Quick Start: Visual Studio Code for Salesforce Development](https://github.com/nadinalisbon/100-days-challenge/blob/master/Quick%20start%20VSC.Feb%2023.PNG)
+
+![Service Cloud Specialist](https://github.com/nadinalisbon/100-days-challenge/blob/master/Service%20Cloud%20Super%20Badge.Feb%2025.PNG)
+
+**Perspective:** Didn't have as much time as I would have liked to work on this badge. Hopefully I get some more time tomorrow.
+
+**Links:**
+
+* Trailhead-Super Badge: [Service Cloud Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-service-cloud-admin-specialist)
 
 ### Day 57 February 26, 2019
 
@@ -1002,15 +1010,15 @@ Finished a trail!
 
 ### Day 55 February 24, 2019
 
-**Today's Journey**: 1hr or cardio
+**Today's Journey**: 1hr of cardio
 
 **Perspective:** A nice way to end the day
 
 ### Day 56 February 25, 2019
 
-**Today's Journey**:
+**Today's Journey**: 1 hr of walking
 
-**Perspective:** 
+**Perspective:** Great way to end an afternoon.
 
 ### Day 57 February 26, 2019
 
