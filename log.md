@@ -655,9 +655,13 @@ Finished a trail!
 
 ### Day 57 February 26, 2019
 
-**Today's Journey**:
+**Today's Journey**: Still working on the Service Cloud Specialist Super Badge, completed another section
 
-**Perspective:** 
+**Perspective:** Stuck on challenge 6,hope I can takle more tomorrow.
+
+**Links:**
+
+* Trailhead-Super Badge: [Service Cloud Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-service-cloud-admin-specialist)
  
  ### Day 58 February 27, 2019
 
@@ -1022,9 +1026,9 @@ Finished a trail!
 
 ### Day 57 February 26, 2019
 
-**Today's Journey**:
+**Today's Journey**: 45 minutes of walking and cardio.
 
-**Perspective:** 
+**Perspective:** Early morning cardio and mid afternoon walk worked out well today!
  
  ### Day 58 February 27, 2019
 
