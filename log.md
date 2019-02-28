@@ -665,9 +665,16 @@ Finished a trail!
  
  ### Day 58 February 27, 2019
 
-**Today's Journey**:
+**Today's Journey**:Completed the Service Cloud Super Badge today. With that badge I also completed my 200th badge!
 
-**Perspective:** 
+![Service Cloud Specialist](https://github.com/nadinalisbon/100-days-challenge/blob/master/Service%20Cloud%20Specialist.Feb%2027.PNG)
+
+**Perspective:** Super excited to finish this badge!
+
+**Links:**
+
+* Trailhead-Super Badge: [Service Cloud Specialist](https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge-service-cloud-admin-specialist)
+
 
 ### Day 59 February 28, 2019
 
@@ -1032,9 +1039,9 @@ Finished a trail!
  
  ### Day 58 February 27, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 miniutes of Situps and Pushups.
 
-**Perspective:** 
+**Perspective:** Working on my core!
 
 ### Day 59 February 28, 2019
 
