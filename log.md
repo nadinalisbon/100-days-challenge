@@ -678,7 +678,43 @@ Finished a trail!
 
 ### Day 59 February 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: Back on the Lightning Web Components Trail. Spent some time working in the playground.
+
+**Perspective:** Wanted to do more today, but didn't get to it. Hope to knock out some badges, tomorrow.
+
+### Day 60 March 01, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 61 March 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 62 March 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 63 March 04, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 64 March 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 65 March 06, 2019
+
+**Today's Journey**: 
 
 **Perspective:** 
  
@@ -1018,7 +1054,6 @@ Finished a trail!
 
 **Perspective:** A relaxing Saturday
 
-
 ### Day 55 February 24, 2019
 
 **Today's Journey**: 1hr of cardio
@@ -1045,7 +1080,43 @@ Finished a trail!
 
 ### Day 59 February 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of stretching and meditation
+
+**Perspective:** Took a nap, and rest my mind. Had a long taxing afternoon.
+
+### Day 60 March 01, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 61 March 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 62 March 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 63 March 04, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 64 March 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 65 March 06, 2019
+
+**Today's Journey**: 
 
 **Perspective:** 
  
