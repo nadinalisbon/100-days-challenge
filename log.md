@@ -684,9 +684,13 @@ Finished a trail!
 
 ### Day 60 March 01, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Started working on the Lightning Web Components Basics Badge got stuck on the handle events :(
 
-**Perspective:** 
+**Perspective:** frustrated that I am so close yet so far!
+
+**Links:**
+
+* Trailhead: [Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics)
 
 ### Day 61 March 02, 2019
 
@@ -1086,9 +1090,9 @@ Finished a trail!
 
 ### Day 60 March 01, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Took a 30 minute walk.
 
-**Perspective:** 
+**Perspective:** Need to ramp up my exercise.
 
 ### Day 61 March 02, 2019
 
