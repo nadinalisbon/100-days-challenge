@@ -694,9 +694,17 @@ Finished a trail!
 
 ### Day 61 March 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Lightning Web Components Basics Badge
 
-**Perspective:** 
+![Lightning Web Components Basics](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20Web%20Components%20Basics.March%202.PNG)
+
+
+**Perspective:** Had to redo the badge but thats okay,learned a lot more about the inner workings of the events.
+
+**Links:**
+
+* Trailhead: [Lightning Web Components Basics](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics)
+
 
 ### Day 62 March 03, 2019
 
@@ -1096,9 +1104,9 @@ Finished a trail!
 
 ### Day 61 March 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes working on my core!
 
-**Perspective:** 
+**Perspective:** My core still more work but definately seeing progress!
 
 ### Day 62 March 03, 2019
 
