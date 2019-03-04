@@ -708,9 +708,15 @@ Finished a trail!
 
 ### Day 62 March 03, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Lightning Web Components for Aura Developers Badge
 
-**Perspective:** 
+![Lightning Web Components for Aura Developers](https://github.com/nadinalisbon/100-days-challenge/blob/master/Lightning%20Web%20Components%20for%20Aura%20Developers.March3.PNG)
+
+**Perspective:** Learning about how Aura and Lightning Web Components interact has been good.
+
+**Links:**
+
+* Trailhead: [Lightning Web Components for Aura Developers](https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-for-aura-developers)
 
 ### Day 63 March 04, 2019
 
@@ -1110,9 +1116,9 @@ Finished a trail!
 
 ### Day 62 March 03, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of stretching and meditation
 
-**Perspective:** 
+**Perspective:** Today was a damp day so go to start the day off in a restful state.
 
 ### Day 63 March 04, 2019
 
