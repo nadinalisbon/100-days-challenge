@@ -720,9 +720,9 @@ Finished a trail!
 
 ### Day 63 March 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Spent my time working in the Lightning Web Component Playground and reading up on Aura Mirgration in the documentation
 
-**Perspective:** 
+**Perspective:** I love playing in the Sandbox
 
 ### Day 64 March 05, 2019
 
@@ -1118,13 +1118,13 @@ Finished a trail!
 
 **Today's Journey**: 30 minutes of stretching and meditation
 
-**Perspective:** Today was a damp day so go to start the day off in a restful state.
+**Perspective:** Today was a damp day so started the day off in a restful state.
 
 ### Day 63 March 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of weight lifiting.
 
-**Perspective:** 
+**Perspective:** great arm work out!.
 
 ### Day 64 March 05, 2019
 
