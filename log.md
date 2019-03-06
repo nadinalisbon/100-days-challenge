@@ -726,9 +726,13 @@ Finished a trail!
 
 ### Day 64 March 05, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Started watch the Play by Play: Understanding Lightning Web Components for Salesforce Developers on Pluralsight
 
-**Perspective:** 
+**Perspective:** Such amazing content can't wait to finish it tomorrow.
+
+**Links:**
+
+* Pluralsights: [Play by Play: Understanding Lightning Web Components for Salesforce Developers](https://app.pluralsight.com/library/courses/play-by-play-understanding-lightning-web-components-salesforce-developers/table-of-contents)
 
 ### Day 65 March 06, 2019
 
@@ -1128,9 +1132,9 @@ Finished a trail!
 
 ### Day 64 March 05, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minute of walking!
 
-**Perspective:** 
+**Perspective:** A smaller walk today as I was living my best life!
 
 ### Day 65 March 06, 2019
 
