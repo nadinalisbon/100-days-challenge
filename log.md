@@ -447,7 +447,6 @@ Finished a trail!
 
 * Trail: [Learn to Work with Javascript](https://trailhead.salesforce.com/content/learn/trails/learn-to-work-with-javascript)
 
-
 ### Day 36 February 05, 2019
 
 **Today's Journey**: An hour of studying Service Cloud! 
@@ -519,7 +518,6 @@ Finished a trail!
 **Links:**
 
 * Trailhead: [Service Cloud Agent Productivity](https://trailhead.salesforce.com/content/learn/modules/service-cloud-agent-productivity)
-
 
 ### Day 43 February 12, 2019
 
@@ -744,9 +742,9 @@ Finished a trail!
 
 ### Day 66 March 07, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Spent more time on Lightning Web Components.
 
-**Perspective:** 
+**Perspective:** The more I read the more I learn.
 
 ### Day 67 March 08, 2019
 
@@ -1174,9 +1172,9 @@ Finished a trail!
 
 ### Day 66 March 07, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:** 
+**Perspective:** Great way to end a long day!
 
 ### Day 67 March 08, 2019
 
