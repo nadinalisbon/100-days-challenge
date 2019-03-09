@@ -748,9 +748,9 @@ Finished a trail!
 
 ### Day 67 March 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Another with Lightning Web Components.
 
-**Perspective:** 
+**Perspective:** Great way to wrap the week.
  
 ### Day 68 March 09, 2019
 
@@ -1178,9 +1178,9 @@ Finished a trail!
 
 ### Day 67 March 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of stretching and meditation
 
-**Perspective:** 
+**Perspective:** A relaxed mind and body is a strong mind and body.
  
 ### Day 68 March 09, 2019
 
