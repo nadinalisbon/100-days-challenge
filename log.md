@@ -754,9 +754,9 @@ Finished a trail!
  
 ### Day 68 March 09, 2019
 
-**Today's Journey**: 
+**Today's Journey**: More LWC. Watched the WITDEVS Lighting Web Components presented by  Peter Chittum.
 
-**Perspective:**    
+**Perspective:**  Wonderful Session.
 
 ### Day 69 March 10, 2019
 
@@ -1184,9 +1184,9 @@ Finished a trail!
  
 ### Day 68 March 09, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 1hr of cardio
 
-**Perspective:**    
+**Perspective:**   Great afternoon work out!
 
 ### Day 69 March 10, 2019
 
