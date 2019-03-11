@@ -760,9 +760,15 @@ Finished a trail!
 
 ### Day 69 March 10, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Chatter Administration for Lightning Experience Badge. Also played around with the Chatter REST API Today!
 
-**Perspective:**  
+![Chatter Administration for Lightning Experience](https://github.com/nadinalisbon/100-days-challenge/blob/master/Chatter%20Administration%20for%20Lightning%20Experiance.March10.PNG)
+
+**Perspective:** A good day with Chatter!
+
+**Links:**
+
+* Trailhead: [Chatter Administration for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_chatter)
 
 ### Day 70 March 11, 2019
 
@@ -1186,13 +1192,13 @@ Finished a trail!
 
 **Today's Journey**: 1hr of cardio
 
-**Perspective:**   Great afternoon work out!
+**Perspective:**   Great afternoon workout!
 
 ### Day 69 March 10, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
+**Perspective:** Another great workout!
 
 ### Day 70 March 11, 2019
 
