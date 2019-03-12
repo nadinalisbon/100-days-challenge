@@ -772,9 +772,14 @@ Finished a trail!
 
 ### Day 70 March 11, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Finished watching the Play by Play: Understanding Lightning Web Components for Salesforce Developers on Pluralsight
 
-**Perspective:**  
+**Perspective:**  Great content!
+
+**Links:**
+
+* Pluralsights: [Play by Play: Understanding Lightning Web Components for Salesforce Developers](https://app.pluralsight.com/library/courses/play-by-play-understanding-lightning-web-components-salesforce-developers/table-of-contents)
+
 ---
 
 ## 100 Days Of Fitness
@@ -1202,7 +1207,7 @@ Finished a trail!
 
 ### Day 70 March 11, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
+**Perspective:**  Another great workout!
  
