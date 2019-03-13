@@ -780,6 +780,53 @@ Finished a trail!
 
 * Pluralsights: [Play by Play: Understanding Lightning Web Components for Salesforce Developers](https://app.pluralsight.com/library/courses/play-by-play-understanding-lightning-web-components-salesforce-developers/table-of-contents)
 
+### Day 71 March 12, 2019
+
+**Today's Journey**: Today spent sometime in the javascript world again. Reviewing cross script messaging passing
+
+**Perspective:**  Learn something new everyday.
+
+
+### Day 72 March 13, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 73 March 14, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 74 March 15, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 75 March 16, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 76 March 17, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
 ---
 
 ## 100 Days Of Fitness
@@ -1210,4 +1257,53 @@ Finished a trail!
 **Today's Journey**: 30 minutes of cardio
 
 **Perspective:**  Another great workout!
+
+### Day 71 March 12, 2019
+
+**Today's Journey**: 1hr of walking.
+
+**Perspective:**  Not as productive as I would help.
+
+**Links:**
+
+### Day 72 March 13, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+
+### Day 73 March 14, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 74 March 15, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 75 March 16, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 76 March 17, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
  
