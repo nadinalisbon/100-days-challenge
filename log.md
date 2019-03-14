@@ -789,11 +789,9 @@ Finished a trail!
 
 ### Day 72 March 13, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Today spent a bit more time in the javascript world.
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Just firming up my knowlodge.
 
 ### Day 73 March 14, 2019
 
@@ -1264,16 +1262,11 @@ Finished a trail!
 
 **Perspective:**  Not as productive as I would help.
 
-**Links:**
-
 ### Day 72 March 13, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Lifted weights!
 
-**Perspective:**  
-
-**Links:**
-
+**Perspective:**  A good way to end a long day.
 
 ### Day 73 March 14, 2019
 
