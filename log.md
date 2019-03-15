@@ -795,9 +795,9 @@ Finished a trail!
 
 ### Day 73 March 14, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Today reviewed some the Lightning Web Components Doc. Reviewed Security with Lightning Locker
 
-**Perspective:**  
+**Perspective:**  Want to ensure I understand all the nuances with S.ecurity 
 
 **Links:**
 
@@ -1270,11 +1270,9 @@ Finished a trail!
 
 ### Day 73 March 14, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 2hrs of Walking today!
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Started the day with walking and it was great.
 
 ### Day 74 March 15, 2019
 
@@ -1282,21 +1280,14 @@ Finished a trail!
 
 **Perspective:**  
 
-**Links:**
-
 ### Day 75 March 16, 2019
 
 **Today's Journey**: 
 
 **Perspective:**  
 
-**Links:**
-
 ### Day 76 March 17, 2019
 
 **Today's Journey**: 
 
 **Perspective:**  
-
-**Links:**
- 
