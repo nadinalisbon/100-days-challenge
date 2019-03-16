@@ -799,15 +799,12 @@ Finished a trail!
 
 **Perspective:**  Want to ensure I understand all the nuances with S.ecurity 
 
-**Links:**
 
 ### Day 74 March 15, 2019
 
-**Today's Journey**: 
+**Today's Journey**: More LWC. Playing with around with the @wire method to get some data.
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Loving everything I'm doing so far!
 
 ### Day 75 March 16, 2019
 
@@ -1276,9 +1273,9 @@ Finished a trail!
 
 ### Day 74 March 15, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
+**Perspective:**  Doing cardio through out the day give me a burst of energy.
 
 ### Day 75 March 16, 2019
 
