@@ -808,11 +808,15 @@ Finished a trail!
 
 ### Day 75 March 16, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Worked on Communities today.
 
-**Perspective:**  
+![Community Rollout Strategy](https://github.com/nadinalisbon/100-days-challenge/blob/master/Community%20Rollout%20Strategy.March16.PNG)
+
+**Perspective:** Wonderful day in Trailhead!
 
 **Links:**
+
+* Trailhead:[Community Rollout Strategy](https://trailhead.salesforce.com/content/learn/modules/community_rollout_impl)
 
 ### Day 76 March 17, 2019
 
@@ -1279,9 +1283,9 @@ Finished a trail!
 
 ### Day 75 March 16, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 40 minutes Stretches & meditation. Also took a well deserved nap!
 
-**Perspective:**  
+**Perspective:**  Sometimes the best exercise is to take it easy.
 
 ### Day 76 March 17, 2019
 
