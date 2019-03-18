@@ -820,11 +820,48 @@ Finished a trail!
 
 ### Day 76 March 17, 2019
 
+**Today's Journey**: Worked on more Communities today.
+
+![Community Search Basics](https://github.com/nadinalisbon/100-days-challenge/blob/master/Community%20Search%20Basics.March17.png)
+
+**Perspective:** Always a great day in Trailhead!
+
+**Links:**
+
+* Trailhead:[Community Search Basics](https://trailhead.salesforce.com/content/learn/modules/comm_search_basics)
+
+### Day 77 March 18, 2019
+
 **Today's Journey**: 
 
 **Perspective:**  
 
 **Links:**
+
+### Day 78 March 19, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 79 March 20, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 80 March 21, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
 
 ---
 
@@ -1289,6 +1326,39 @@ Finished a trail!
 
 ### Day 76 March 17, 2019
 
+**Today's Journey**: 30 minutes Lifting weights!
+
+**Perspective:** A great way to end a productive weekend! 
+
+### Day 77 March 18, 2019
+
 **Today's Journey**: 
 
 **Perspective:**  
+
+**Links:**
+
+### Day 78 March 19, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 79 March 20, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 80 March 21, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
