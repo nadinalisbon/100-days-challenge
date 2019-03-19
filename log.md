@@ -832,11 +832,15 @@ Finished a trail!
 
 ### Day 77 March 18, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Started working on a cute web app made from javascript. This app is based on the Whack A Mole Project from Javascript30 Course
 
-**Perspective:**  
+**Perspective:** I love that through out my hundred days I am able to dive right into this course and put my own spin on the project.
 
 **Links:**
+
+Course:[JavaScript30](https://javascript30.com/)
+
+App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 78 March 19, 2019
 
@@ -1332,11 +1336,9 @@ Finished a trail!
 
 ### Day 77 March 18, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of arm curls and other arm strengthing exercises!
 
-**Perspective:**  
-
-**Links:**
+**Perspective:** Strengthening my arm 
 
 ### Day 78 March 19, 2019
 
