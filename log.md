@@ -844,11 +844,16 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 78 March 19, 2019
 
-**Today's Journey**: 
+**Today's Journey**:  Another communities day.
 
-**Perspective:**  
+![Build a Community with Knowledge and Chat](https://github.com/nadinalisbon/100-days-challenge/blob/master/Build%20a%20Community%20with%20Knowledge%20and%20Chat.March19.PNG)
+
+**Perspective:** Another great day in the Trailhead!
 
 **Links:**
+
+* Trailhead:[Build a Community with Knowledge and Chat](https://trailhead.salesforce.com/content/learn/projects/build-a-community-with-knowledge-and-chat)
+
 
 ### Day 79 March 20, 2019
 
@@ -1342,9 +1347,9 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 78 March 19, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of core workout!
 
-**Perspective:**  
+**Perspective:** Slow and steady!
 
 **Links:**
 
