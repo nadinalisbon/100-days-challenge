@@ -854,14 +854,15 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 * Trailhead:[Build a Community with Knowledge and Chat](https://trailhead.salesforce.com/content/learn/projects/build-a-community-with-knowledge-and-chat)
 
-
 ### Day 79 March 20, 2019
 
-**Today's Journey**: 
+**Today's Journey**: More work on my cute web app made from javascript. WOrking on some sparkle, side note the project I added to github got corupted so working local for now until I can resync. All these master pushes have caught up to me.
 
-**Perspective:**  
+**Perspective:** I am having so much fun with this project, just the right amount of sparkle.
 
 **Links:**
+
+App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 80 March 21, 2019
 
@@ -871,6 +872,21 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 **Links:**
 
+### Day 81 March 22, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 82 March 23, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
 
 ---
 
@@ -1355,13 +1371,27 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 79 March 20, 2019
 
+**Today's Journey**: 30 minutes of walking today.
+
+**Perspective:** Made it through Wednesday!!
+
+### Day 80 March 21, 2019
+
 **Today's Journey**: 
 
 **Perspective:**  
 
 **Links:**
 
-### Day 80 March 21, 2019
+### Day 81 March 22, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
+**Links:**
+
+### Day 82 March 23, 2019
 
 **Today's Journey**: 
 
