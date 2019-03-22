@@ -856,7 +856,7 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 79 March 20, 2019
 
-**Today's Journey**: More work on my cute web app made from javascript. WOrking on some sparkle, side note the project I added to github got corupted so working local for now until I can resync. All these master pushes have caught up to me.
+**Today's Journey**: More work on my cute web app made from javascript. Working on some sparkle, side note the project I added to github got corupted so working local for now until I can resync. All these master pushes have caught up to me.
 
 **Perspective:** I am having so much fun with this project, just the right amount of sparkle.
 
@@ -866,11 +866,13 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 80 March 21, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Got the confetti working today. Used a wonderful confetti generator to add sparkle! 
 
-**Perspective:**  
+**Perspective:** Love the joy this project has brought!
 
 **Links:**
+
+Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 81 March 22, 2019
 
@@ -1377,11 +1379,9 @@ App: [Find An Astro Game](https://github.com/nadinalisbon/Find-An-Astro)
 
 ### Day 80 March 21, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of walking today.
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Had a great day over all!
 
 ### Day 81 March 22, 2019
 
