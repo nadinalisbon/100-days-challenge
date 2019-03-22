@@ -876,9 +876,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 81 March 22, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Worked on Scoring, dynamic title and some css changes
 
-**Perspective:**  
+**Perspective:**  Another great day coding!
 
 **Links:**
 
@@ -1385,9 +1385,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 81 March 22, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
+**Perspective:**  Great way to end the week!
 
 **Links:**
 
