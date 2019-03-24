@@ -880,9 +880,22 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 **Perspective:**  Another great day coding!
 
+### Day 82 March 23, 2019
+
+**Today's Journey**: Spent an hour refractoring the code.
+
+**Perspective:**  Good day to tidy up and restore order
+
+
+### Day 83 March 24, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
 **Links:**
 
-### Day 82 March 23, 2019
+### Day 84 March 25, 2019
 
 **Today's Journey**: 
 
@@ -1389,13 +1402,25 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 **Perspective:**  Great way to end the week!
 
-**Links:**
 
 ### Day 82 March 23, 2019
+
+**Today's Journey**: 30 minutes of walking today.
+
+**Perspective:**  Great day over all!
+
+### Day 83 March 24, 2019
 
 **Today's Journey**: 
 
 **Perspective:**  
 
 **Links:**
+
+### Day 84 March 25, 2019
+
+**Today's Journey**: 
+
+**Perspective:**  
+
 
