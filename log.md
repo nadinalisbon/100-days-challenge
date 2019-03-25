@@ -889,11 +889,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 83 March 24, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Created a static site for the game with github pages. Working on how I will show a count down mechanism for the game.
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Got a lot done today.
 
 ### Day 84 March 25, 2019
 
@@ -1411,11 +1409,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 83 March 24, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
-
-**Links:**
+**Perspective:**  Great burst of energy today.
 
 ### Day 84 March 25, 2019
 
