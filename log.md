@@ -895,11 +895,33 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 84 March 25, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Working on adding a visual timer for my game.
+
+**Perspective:**  Thinking about what other features I can add.
+
+### Day 85 March 26, 2019
+
+**Today's Journey**:
 
 **Perspective:**  
 
-**Links:**
+### Day 86 March 27, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 87 March 28, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 88 March 29, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
 
 ---
 
@@ -1415,7 +1437,31 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 84 March 25, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
+
+**Perspective:**  Great way to end the day.
+
+### Day 85 March 26, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 86 March 27, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 87 March 28, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 88 March 29, 2019
+
+**Today's Journey**:
 
 **Perspective:**  
 
