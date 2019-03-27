@@ -901,9 +901,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 85 March 26, 2019
 
-**Today's Journey**:
+**Today's Journey**: Added  my visual timer (count down clock). Thinking about adding some sound. Had to tweek the count down a few time the number 10 was being skipped over.
 
-**Perspective:**  
+**Perspective:**  Simple mistakes make me laugh. 
 
 ### Day 86 March 27, 2019
 
@@ -1443,9 +1443,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 85 March 26, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of walking endded the day with meditation.
 
-**Perspective:**  
+**Perspective:** Great afternoon walk and a peaceful mind means a peaceful rest.
 
 ### Day 86 March 27, 2019
 
