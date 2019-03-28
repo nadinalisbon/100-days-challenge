@@ -907,9 +907,13 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 86 March 27, 2019
 
-**Today's Journey**:
+**Today's Journey**: Found a sound library, after looking through a few. Started light working on adding it to the game. Still need to figure out how I want to use the sounds.
 
-**Perspective:**  
+**Perspective:** Soon there will be noise!
+
+**Links:**
+
+Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 87 March 28, 2019
 
@@ -1449,9 +1453,9 @@ Library: [confetti-js](https://www.npmjs.com/package/confetti-js)
 
 ### Day 86 March 27, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of lifting weights.
 
-**Perspective:**  
+**Perspective:** Not feeling a 100% tonight, but pushing through.
 
 ### Day 87 March 28, 2019
 
