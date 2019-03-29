@@ -917,9 +917,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 87 March 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: Still working on sound!
 
-**Perspective:**  
+**Perspective:** Got stuck but that all part of learning!
 
 ### Day 88 March 29, 2019
 
@@ -1459,9 +1459,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 87 March 28, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:**  
+**Perspective:**  A great way to close out the afternoon.
 
 ### Day 88 March 29, 2019
 
