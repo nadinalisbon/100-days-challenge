@@ -923,6 +923,24 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 88 March 29, 2019
 
+**Today's Journey**: Took a break from the game today. Brushed up on Community Cloud content.
+
+**Perspective:**  Took a step back to ensure I don't get to tangled in the weeds!
+
+### Day 89 March 30, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 90 March 31, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 91 April 01, 2019
+
 **Today's Journey**:
 
 **Perspective:**  
@@ -1465,8 +1483,25 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 88 March 29, 2019
 
+**Today's Journey**: 30 minutes of cardio.
+
+**Perspective:**  Great week to end the week!
+
+### Day 89 March 30, 2019
+
 **Today's Journey**:
 
 **Perspective:**  
 
+### Day 90 March 31, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
+
+### Day 91 April 01, 2019
+
+**Today's Journey**:
+
+**Perspective:**  
 
