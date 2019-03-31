@@ -929,9 +929,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 89 March 30, 2019
 
-**Today's Journey**:
+**Today's Journey**: Still working on sound! More progress today figuring out what type of sound I want!
 
-**Perspective:**  
+**Perspective:**  ADay away is just what I needed.
 
 ### Day 90 March 31, 2019
 
@@ -1489,9 +1489,10 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 89 March 30, 2019
 
-**Today's Journey**:
+**Today's Journey**:30 minutes of stretching and meditation
 
-**Perspective:**  
+**Perspective:** A nice relaxing day!
+
 
 ### Day 90 March 31, 2019
 
