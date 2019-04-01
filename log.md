@@ -935,9 +935,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 90 March 31, 2019
 
-**Today's Journey**:
+**Today's Journey**: Got the Sound working still need to clean up some methods and test.
 
-**Perspective:**  
+**Perspective:**  It's almost done!
 
 ### Day 91 April 01, 2019
 
@@ -1496,9 +1496,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 90 March 31, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of lifting weights!
 
-**Perspective:**  
+**Perspective:**  It's a feeling good kind of Sunday!
 
 ### Day 91 April 01, 2019
 
