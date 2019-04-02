@@ -935,15 +935,52 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 90 March 31, 2019
 
-**Today's Journey**: Got the Sound working still need to clean up some methods and test.
+**Today's Journey**: Got the Sound working still need to clean up some methods and testing.
 
 **Perspective:**  It's almost done!
 
 ### Day 91 April 01, 2019
 
+**Today's Journey**: Fixing bugs and working on the mobile responsiveness.
+
+**Perspective:** SO far so good.
+
+### Day 92 April 02, 2019
+
 **Today's Journey**:
 
-**Perspective:**  
+**Perspective:** 
+
+### Day 93 April 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 94 April 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 95 April 04, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 96 April 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 97 April 06, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
 
 ---
 
@@ -1444,7 +1481,6 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 **Perspective:**  Great way to end the week!
 
-
 ### Day 82 March 23, 2019
 
 **Today's Journey**: 30 minutes of walking today.
@@ -1493,7 +1529,6 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 **Perspective:** A nice relaxing day!
 
-
 ### Day 90 March 31, 2019
 
 **Today's Journey**: 30 minutes of lifting weights!
@@ -1502,7 +1537,43 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 91 April 01, 2019
 
+**Today's Journey**: 30 minutes of cardio
+
+**Perspective:**  A great monday
+
+### Day 92 April 02, 2019
+
 **Today's Journey**:
 
-**Perspective:**  
+**Perspective:** 
+
+### Day 93 April 02, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 94 April 03, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 95 April 04, 2019
+
+**Today's Journey**:
+
+**Perspective:** 
+
+### Day 96 April 05, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 97 April 06, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
 
