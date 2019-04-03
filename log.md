@@ -947,9 +947,19 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 92 April 02, 2019
 
-**Today's Journey**:
+**Today's Journey**: It's done!
 
-**Perspective:** 
+**Perspective:** Super excited to have finished this cute quickkly game!
+
+ <img src="https://nadinalisbon.github.io/Games/Screenshot_Find_Astro.png" width="500" height="750" title="Find Astro">
+
+**Links:**
+
+* Github Pages: [Game Landing Page](https://nadinalisbon.github.io/Games/)
+
+* Game: [Find Astro](https://nadinalisbon.github.io/Games/Find-Astro/)
+
+
 
 ### Day 93 April 02, 2019
 
@@ -1543,9 +1553,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 92 April 02, 2019
 
-**Today's Journey**:
+**Today's Journey**:30 minutes cardio
 
-**Perspective:** 
+**Perspective:** A busy but productive day
 
 ### Day 93 April 02, 2019
 
