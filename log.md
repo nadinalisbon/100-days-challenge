@@ -960,12 +960,20 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 * Game: [Find Astro](https://nadinalisbon.github.io/Games/Find-Astro/)
 
 
-
 ### Day 93 April 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Completed the Partner Relationship Management Badge which finished out the Community Cloud - Beginner Trailmix.
 
-**Perspective:** 
+![Partner Relationship Management](https://github.com/nadinalisbon/100-days-challenge/blob/master/Partner%20Relationship%20Management.April3.PNG)
+
+![Community Cloud - Beginner](https://github.com/nadinalisbon/100-days-challenge/blob/master/Community%20Cloud%20-%20Beginner.April3.PNG)
+
+**Perspective:** Always a great way to spend time!
+
+**Links:**
+  * Trailhead:[Partner Relationship Management](https://trailhead.salesforce.com/content/learn/modules/partner-relationship-management)
+  
+ * Trailmix:[Community Cloud - Beginner](https://trailhead.salesforce.com/users/sahin/trailmixes/community-cloud-beginner)
 
 ### Day 94 April 03, 2019
 
@@ -1559,9 +1567,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 93 April 02, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes walking
 
-**Perspective:** 
+**Perspective:** Always a great day to get a walk in!
 
 ### Day 94 April 03, 2019
 
