@@ -960,7 +960,7 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 * Game: [Find Astro](https://nadinalisbon.github.io/Games/Find-Astro/)
 
 
-### Day 93 April 02, 2019
+### Day 93 April 03, 2019
 
 **Today's Journey**: Completed the Partner Relationship Management Badge which finished out the Community Cloud - Beginner Trailmix.
 
@@ -975,25 +975,25 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
   
  * Trailmix:[Community Cloud - Beginner](https://trailhead.salesforce.com/users/sahin/trailmixes/community-cloud-beginner)
 
-### Day 94 April 03, 2019
+### Day 94 April 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**:  Spent the evening preparation for COmmunity Cloud.
 
-**Perspective:** 
+**Perspective:** Love learning about Community
 
-### Day 95 April 04, 2019
+### Day 95 April 05, 2019
 
 **Today's Journey**:
 
 **Perspective:** 
 
-### Day 96 April 05, 2019
+### Day 96 April 06, 2019
 
 **Today's Journey**: 
 
 **Perspective:** 
 
-### Day 97 April 06, 2019
+### Day 97 April 07, 2019
 
 **Today's Journey**: 
 
@@ -1565,31 +1565,31 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 **Perspective:** A busy but productive day
 
-### Day 93 April 02, 2019
+### Day 93 April 03, 2019
 
 **Today's Journey**: 30 minutes walking
 
 **Perspective:** Always a great day to get a walk in!
 
-### Day 94 April 03, 2019
+### Day 94 April 04, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes walking
 
-**Perspective:** 
+**Perspective:** Another great day for walking
 
-### Day 95 April 04, 2019
+### Day 95 April 05, 2019
 
 **Today's Journey**:
 
 **Perspective:** 
 
-### Day 96 April 05, 2019
+### Day 96 April 06, 2019
 
 **Today's Journey**: 
 
 **Perspective:** 
 
-### Day 97 April 06, 2019
+### Day 97 April 07, 2019
 
 **Today's Journey**: 
 
