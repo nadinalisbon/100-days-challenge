@@ -977,15 +977,15 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 94 April 04, 2019
 
-**Today's Journey**:  Spent the evening preparation for COmmunity Cloud.
+**Today's Journey**:  Spent the evening preparation for Community Cloud.
 
 **Perspective:** Love learning about Community
 
 ### Day 95 April 05, 2019
 
-**Today's Journey**:
+**Today's Journey**: Spent a couple hours review for Community Cloud
 
-**Perspective:** 
+**Perspective:** Still deciding if I will take this exam before my 100 days are up!
 
 ### Day 96 April 06, 2019
 
@@ -1579,9 +1579,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 95 April 05, 2019
 
-**Today's Journey**:
+**Today's Journey**: 30 minutes of stretching and meditation
 
-**Perspective:** 
+**Perspective:** A nice way to end a hectic week.
 
 ### Day 96 April 06, 2019
 
