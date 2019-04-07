@@ -989,9 +989,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 96 April 06, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Did some practice quizes on community today.
 
-**Perspective:** 
+**Perspective:** Will decide tomorrow when to set my exam.
 
 ### Day 97 April 07, 2019
 
@@ -1585,9 +1585,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 96 April 06, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:** 
+**Perspective:** Really hard to expercise with all the rain today
 
 ### Day 97 April 07, 2019
 
