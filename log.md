@@ -995,6 +995,29 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 97 April 07, 2019
 
+**Today's Journey**: Completed the UX Personas for Salesforce and did more review for my Community Cloud Exam.
+
+![UX Personas for Salesforce](https://github.com/nadinalisbon/100-days-challenge/blob/master/UX%20Personas%20for%20Salesforce.png)
+
+**Perspective:** Another day on the trails!
+
+* Trailmix:[UX Personas for Salesforce](https://trailhead.salesforce.com/en/content/learn/modules/ux-personas-for-salesforce)
+
+
+### Day 98 April 08, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 99 April 09, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 100 April 10, 2019
+
 **Today's Journey**: 
 
 **Perspective:** 
@@ -1587,9 +1610,27 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 **Today's Journey**: 30 minutes of cardio
 
-**Perspective:** Really hard to expercise with all the rain today
+**Perspective:** Really hard to exercise with all the rain today
 
 ### Day 97 April 07, 2019
+
+**Today's Journey**: 30 minutes of cardio
+
+**Perspective:** Another day where I had to push myself to exercise.
+
+### Day 98 April 08, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 99 April 09, 2019
+
+**Today's Journey**: 
+
+**Perspective:** 
+
+### Day 100 April 10, 2019
 
 **Today's Journey**: 
 
