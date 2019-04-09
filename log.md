@@ -1006,9 +1006,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 98 April 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: More Community Cloud Review
 
-**Perspective:** 
+**Perspective:** Slow but steady!
 
 ### Day 99 April 09, 2019
 
@@ -1620,9 +1620,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 98 April 08, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of cardio
 
-**Perspective:** 
+**Perspective:** Great workout!
 
 ### Day 99 April 09, 2019
 
