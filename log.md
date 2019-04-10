@@ -1012,9 +1012,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 99 April 09, 2019
 
-**Today's Journey**: 
+**Today's Journey**: Did some practice quizes on community today.
 
-**Perspective:** 
+**Perspective:** It's day 99, Setting my exam for end of April!
 
 ### Day 100 April 10, 2019
 
@@ -1626,9 +1626,9 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 99 April 09, 2019
 
-**Today's Journey**: 
+**Today's Journey**: 30 minutes of walking!
 
-**Perspective:** 
+**Perspective:** Really helps break up the day!
 
 ### Day 100 April 10, 2019
 
