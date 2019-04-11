@@ -1018,7 +1018,7 @@ Library: [Sound.js](https://github.com/kittykatattack/sound.js)
 
 ### Day 100 April 10, 2019
 
-**Today's Journey**: Spent today preping for my RAD class on Saturday, Set my Community Cloud Exam and of course study.
+**Today's Journey**: Spent today prepping for my RAD class on Saturday, Set my Community Cloud Exam and of course study.
 
 **Perspective:** What an amazing challenge!!!
 
